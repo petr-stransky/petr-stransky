@@ -7,6 +7,3 @@ Analytik se zkušenostmi s tvorbou specifikací, UML modelováním a návrhem wo
 ## Právě se učím
 - REST API a integrace
 - SQL a práce s daty
-
-## Kontakt
-LinkedIn: (doplň odkaz)
